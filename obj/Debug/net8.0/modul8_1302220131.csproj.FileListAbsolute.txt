@@ -1,0 +1,5 @@
+C:\Users\delll\Downloads\1302220131_MOD8_JURNAL_MNG\modul8_1302220131\modul8_1302220131\obj\Debug\net8.0\modul8_1302220131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delll\Downloads\1302220131_MOD8_JURNAL_MNG\modul8_1302220131\modul8_1302220131\obj\Debug\net8.0\modul8_1302220131.AssemblyInfoInputs.cache
+C:\Users\delll\Downloads\1302220131_MOD8_JURNAL_MNG\modul8_1302220131\modul8_1302220131\obj\Debug\net8.0\modul8_1302220131.AssemblyInfo.cs
+C:\Users\delll\Downloads\1302220131_MOD8_JURNAL_MNG\modul8_1302220131\modul8_1302220131\obj\Debug\net8.0\modul8_1302220131.csproj.CoreCompileInputs.cache
+C:\Users\delll\Downloads\1302220131_MOD8_JURNAL_MNG\modul8_1302220131\modul8_1302220131\obj\Debug\net8.0\modul8_1302220131.sourcelink.json
